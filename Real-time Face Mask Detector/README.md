@@ -22,4 +22,8 @@ Sklearn                   Machine learning and evaluation metrics
 OpenCV                    Computer vision
 
 # Conclusion
-In this paper, we introduced a real-time face mask detector using CNN and computer vision algorithms. We achieved 99.19% accuracy on the test set. This model can help to ensure the safety in schools, malls, offices, etc… Our face mask detector is accurate and efficient.
+In this paper, we introduced a real-time face mask detector using CNN and computer vision algorithms. We achieved 99.19% accuracy on the test set. This model can help to ensure the safety in schools, malls, offices, etc… 
+Our face mask detector is accurate and efficient.
+
+
+<img alt="Creative Commons License" style="border-width:0" src="images/Run 1.png" />
