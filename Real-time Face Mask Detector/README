@@ -1,2 +1,4 @@
+<h1>jhjhjh<\h1>
+
 At the end of 2019, COVID-19 (Coronavirus) was identified for the first time in Wuhan, China. During the past months, the world suffered from its impact. Many things in our life have been changed because of it. No treatment has been discovered officially until now so, many countries decided to live with the virus. It is hard to live with the virus so, people need to take some precautions to reduce chances of infection of the virus.
 The World Health Organization (WHO) offers some instruction that help people to take caution. One of these instructions is wearing masks. In this paper, we will represent a real-time face mask detector using computer vision algorithms and deep learning approach. We aim to build a Convolution Neural Network (CNN) to ensure your safety and the safety of others. The output of the network should be a label which indicating whether the person wears a mask or not. This is a supervised binary classification task.
