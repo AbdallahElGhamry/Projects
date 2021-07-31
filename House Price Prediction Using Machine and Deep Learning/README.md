@@ -7,7 +7,9 @@ To find research on the price of housing, one needs to search mostly the busines
 # Results
 The CNN model achieves the best R-squared, MAE, and RMSE, while the LGBM model achieves the best cross validation score score.
 <img  src="Images/Results.png"/>
+
 <img  src="Images/CNN performance on the testing data.png"/>
+CNN performance on the testing data.
 
 # Conclusion
 A purpose of the paper was to introduce a comparison among different machine learning and deep learning models to help in the field of construction estimation. Concern about such data is the proportion of the number of data sets to the number features. The higher dimensionality, the larger the number of training samples required for accurate cost estimation. The models were presented for predicting the price of a building. This will minimize the cost and the effort to find a suitable house. 
