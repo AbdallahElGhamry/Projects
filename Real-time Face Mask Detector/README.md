@@ -13,6 +13,9 @@ The deployment of the model involves the following steps:
   6. Predicting the class of the face using the CNN model.
   7. Drawing a box around each face to identify whether the person is wearing a mask or not.
 
+<img src="images/Sample1.png" width="500px" />
+<img src="images/Sample2.png" width="500px" />
+
 # Libraries
 Numpy                     Scientific computing
 Pandas                    Data analysis
@@ -24,7 +27,3 @@ OpenCV                    Computer vision
 # Conclusion
 In this paper, we introduced a real-time face mask detector using CNN and computer vision algorithms. We achieved 99.19% accuracy on the test set. This model can help to ensure the safety in schools, malls, offices, etc… 
 Our face mask detector is accurate and efficient.
-
-
-<img src="images/Sample1.png" width="500px" />
-<img src="images/Sample2.png" width="500px" />
