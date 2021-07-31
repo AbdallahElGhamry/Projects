@@ -27,4 +27,4 @@ Our face mask detector is accurate and efficient.
 
 
 <img src="images/Sample1.png" width="500px" />
-<img src="images/Sample2.png" />
+<img src="images/Sample2.png" width="500px" />
