@@ -26,4 +26,5 @@ In this paper, we introduced a real-time face mask detector using CNN and comput
 Our face mask detector is accurate and efficient.
 
 
-<img alt="Creative Commons License" style="border-width:0" src="images/Run 1.png" />
+<img src="images/Sample1.png" />
+<img src="images/Sample2.png" />
