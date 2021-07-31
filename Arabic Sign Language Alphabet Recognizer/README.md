@@ -4,4 +4,4 @@ The model detects the Arabic alphabet using computer vision algorithms and CNNs.
 <img src="Images/dataset.png" width="500px" />
 
 # CNN
-<img src="Images/CNN.png" />
+<img src="Images/CNN.png"  width="700px" />
